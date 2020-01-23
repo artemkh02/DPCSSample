@@ -1,4 +1,4 @@
-public class Fraction {
+/*public class Fraction {
 
 
 
@@ -122,7 +122,7 @@ public class Fraction {
 
 	
 
-	public static Fraction multiplyFractions(Fraction f1, Fraction f2) {
+	/*public static Fraction multiplyFractions(Fraction f1, Fraction f2) {
 
 		Fraction out = new Fraction();
 
@@ -159,3 +159,4 @@ public class Fraction {
 		}
 	}
 	
+//*/
